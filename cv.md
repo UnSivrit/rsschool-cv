@@ -1,6 +1,6 @@
-#ALEXANDER TSCHIGIR
-##Automatisierungstechniker
-##PERSÖNLICHE DATEN:
+# ALEXANDER TSCHIGIR
+## Automatisierungstechniker
+## PERSÖNLICHE DATEN:
 +49 152 258 299 87
 atschigir@gmail.com
 Telegram: @unsivrit
@@ -10,7 +10,7 @@ TIA Portal7 (●●●●○)
 SIMATIC STEP 7 (●●●●○)
 Computer Simulation (●●●○○)
 Photoshop (●●●●○)
-##SPACHEN
+## SPACHEN
 Deutsch (●●●●○)
 Russisch (●●●●●)
 Englisch (●●○○○)
