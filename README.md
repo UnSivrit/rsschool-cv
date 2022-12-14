@@ -1,1 +1,1 @@
-https://UnSivrit.github.io/rsschool-cv/cv
+https://UnSivrit.github.io/rsschool-cv/
