@@ -10,3 +10,7 @@ TIA Portal7 (●●●●○)
 SIMATIC STEP 7 (●●●●○)
 Computer Simulation (●●●○○)
 Photoshop (●●●●○)
+##SPACHEN
+Deutsch (●●●●○)
+Russisch (●●●●●)
+Englisch (●●○○○)
