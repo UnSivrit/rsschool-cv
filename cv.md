@@ -35,4 +35,9 @@
 * 09.2011 – 06.2019 / Ingenieur
 	* Kernkraftwerk Smolensk, Desnogorsk, Russland
 
+# Ausbildung
+
+* 09.2004 – 02.2011 / Studium Informationssysteme und -technologien
+Nationale Forschungsuniversität für Kernkraft, Moskau, Russland
+	* Abschluss: Master
   
