@@ -19,3 +19,20 @@
 * TIA Portal7 
 * SIMATIC STEP 7
 * Computer Simulation
+
+# Berufserfarung
+
+* Seit 03.2022 / Volunteer
+	* iHELP Kassel e.V.
+* 10.2021 – 03.2022 / Automatisierungstechniker
+	* RMGS GmbH, Niestetal
+* 05.2021 – 10.2021 / Weiterbildung, Sprachkurs B2
+	* Dialog-Bildungsinstitut, Kassel
+* 06.2020 – 09.2020 / Elektroniker
+	* ZPF GmbH, Siegelsbach
+* 11.2019 – 05.2020 / Weiterbildung, Sprachkurs B1
+	* Sprachen- und Übersetzungszenrum, Kassel
+* 09.2011 – 06.2019 / Ingenieur
+	* Kernkraftwerk Smolensk, Desnogorsk, Russland
+
+  
