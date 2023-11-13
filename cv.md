@@ -40,4 +40,9 @@
 * 09.2004 – 02.2011 / Studium Informationssysteme und -technologien
 Nationale Forschungsuniversität für Kernkraft, Moskau, Russland
 	* Abschluss: Master
-  
+
+# Sprachen
+
+- Deutsch
+- Russisch
+- Englisch
